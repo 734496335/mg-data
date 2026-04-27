@@ -1,0 +1,12 @@
+{
+  "latest_version": "0.1.0",
+  "min_version": "0.1.0",
+  "download": {
+    "primary": "https://github.com/734496335/mg-data/releases/latest",
+    "mirrors": []
+  },
+  "announcement": "",
+  "source_expiry_hours": 72,
+  "source_schema_version": 1,
+  "updated_at": "2026-04-26T15:09:15.052026+00:00"
+}
