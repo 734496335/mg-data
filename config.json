@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.1.9",
-  "min_version": "0.1.9",
+  "latest_version": "0.1.10",
+  "min_version": "0.1.10",
   "download": {
     "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
     "mirrors": [
       "https://wwbdy.lanzoue.com/iE7DD3p2mjzc"
     ]
   },
-  "announcement": "v0.1.9: 源同步优化、多端点容灾\n蓝奏云密码: 8888",
+  "announcement": "v0.1.10: 修复设置页面、性能优化\n蓝奏云密码: 8888",
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-05-09T00:58:00+08:00"
+  "updated_at": "2026-05-12T17:00:00+08:00"
 }
