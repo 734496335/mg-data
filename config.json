@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.1.10",
+  "latest_version": "0.1.11",
   "min_version": "0.1.10",
   "download": {
     "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
     "mirrors": [
-      "https://wwbdy.lanzoue.com/ighZS3pb0h0h"
+      "https://wwbdy.lanzn.com/ifMeo3qzbcbe"
     ]
   },
-  "announcement": "v0.1.10: 修复设置页面、性能优化\n蓝奏云密码: 8888",
+  "announcement": "v0.1.11 更新：优化搜索源、提升搜索性能\n⚠️ 请先删除旧版再安装，否则可能安装失败\n官网下载：magnetgoogo.com\n蓝奏云密码: 8888",
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-05-12T17:00:00+08:00"
+  "updated_at": "2026-06-01T22:00:00+08:00"
 }
