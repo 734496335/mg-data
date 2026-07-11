@@ -1,14 +1,14 @@
-﻿{
-    "latest_version":  "0.1.14",
-    "min_version":  "0.1.10",
-    "download":  {
-                     "primary":  "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
-                     "mirrors":  [
-                                     "https://wwbdy.lanzn.com/iNSgI3vtzeoh"
-                                 ]
-                 },
-    "announcement":  "v0.1.14 鎼滅储鏇撮『婊戙€俓n鍒囧埌鍚庡彴涔熻兘缁х画鎼溿€俓n鎼滃畬浼氱洿鎺ラ€氱煡浣犮€俓n\nv0.1.14 Search feels smoother.\nBackground search keeps running.\nFinished searches notify you.\n\n瀹樼綉涓嬭浇锛歮agnetgoogo.com\n钃濆浜戝瘑鐮? 8888",
-    "source_expiry_hours":  72,
-    "source_schema_version":  1,
-    "updated_at":  "2026-07-11T16:35:00+08:00"
+{
+    "latest_version": "0.1.14",
+    "min_version": "0.1.10",
+    "download": {
+        "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
+        "mirrors": [
+            "https://wwbdy.lanzn.com/i0Qgm3vv8izc"
+        ]
+    },
+    "announcement": "v0.1.14 ??????\n??????????\n?????????\n\nv0.1.14 Search feels smoother.\nBackground search keeps running.\nFinished searches notify you.\n\n?????magnetgoogo.com\n??????8888",
+    "source_expiry_hours": 72,
+    "source_schema_version": 1,
+    "updated_at": "2026-07-11T21:05:00+08:00"
 }
