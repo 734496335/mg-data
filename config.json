@@ -1,14 +1,26 @@
 {
-    "latest_version": "0.1.14",
-    "min_version": "0.1.10",
-    "download": {
-        "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
-        "mirrors": [
-            "https://wwbdy.lanzn.com/i0Qgm3vv8izc"
-        ]
-    },
-    "announcement": "v0.1.14 搜索更顺滑。\n切到后台也能继续搜。\n搜完会直接通知你。\n\nv0.1.14 Search feels smoother.\nBackground search keeps running.\nFinished searches notify you.\n\n官网下载：magnetgoogo.com\n蓝奏云密码：8888",
-    "source_expiry_hours": 72,
-    "source_schema_version": 1,
-    "updated_at": "2026-07-11T21:05:00+08:00"
+  "latest_version": "0.2.1",
+  "min_version": "0.1.10",
+  "download": {
+    "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
+    "mirrors": [
+      "https://wwbdy.lanzn.com/iY0jg3z9myba"
+    ]
+  },
+  "announcement": "新增68个搜索源 / 68 new search sources\n新增多阶段深度搜索 / Multi-stage deep search\n新增精品影视推荐 / Curated movie & TV picks\n修复异常标题和搜索问题 / Title and search fixes\n密码 / Password: 8888",
+  "announcement_i18n": {
+    "zh": "新增68个搜索源\n新增多阶段深度搜索\n新增精品影视推荐\n修复异常标题和搜索问题\n蓝奏云密码：8888",
+    "en": "68 new search sources\nMulti-stage deep search\nCurated movie and TV picks\nTitle and search fixes\nBackup password: 8888",
+    "es": "68 nuevas fuentes de búsqueda\nBúsqueda profunda por etapas\nRecomendaciones de cine y series\nCorrecciones de títulos y búsqueda\nContraseña: 8888",
+    "ru": "68 новых источников поиска\nМногоэтапный глубокий поиск\nПодборки фильмов и сериалов\nИсправления заголовков и поиска\nПароль: 8888",
+    "pt": "68 novas fontes de busca\nBusca profunda em várias etapas\nRecomendações de filmes e séries\nCorreções de títulos e busca\nSenha: 8888",
+    "ja": "検索ソースを68件追加\n多段階ディープ検索\n厳選映画・ドラマ推薦\nタイトル表示と検索を修正\nパスワード：8888",
+    "ko": "검색 소스 68개 추가\n다단계 심층 검색\n엄선 영화·드라마 추천\n제목 표시 및 검색 수정\n비밀번호: 8888",
+    "fr": "68 nouvelles sources de recherche\nRecherche approfondie par étapes\nSélections de films et séries\nCorrections des titres et de la recherche\nMot de passe : 8888",
+    "de": "68 neue Suchquellen\nMehrstufige Tiefensuche\nFilm- und Serienempfehlungen\nTitel- und Suchfehler behoben\nPasswort: 8888",
+    "ar": "إضافة 68 مصدرًا للبحث\nبحث متعمق متعدد المراحل\nترشيحات أفلام ومسلسلات مختارة\nإصلاح العناوين ومشاكل البحث\nكلمة المرور: 8888"
+  },
+  "source_expiry_hours": 72,
+  "source_schema_version": 1,
+  "updated_at": "2026-07-28T21:37:58+08:00"
 }
