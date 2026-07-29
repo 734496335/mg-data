@@ -1,27 +1,27 @@
 {
-  "latest_version": "0.2.1",
+  "latest_version": "0.2.2",
   "min_version": "0.1.10",
   "download": {
     "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
     "mirrors": [
-      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.1/magnetgoogo-v0.2.1.apk",
-      "https://wwbdy.lanzn.com/iy2h73zalz1g"
+      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.2/magnetgoogo-v0.2.2.apk",
+      "https://wwbdy.lanzn.com/imCPX3zgpbkb"
     ]
   },
-  "announcement": "新增68个搜索源 / 68 new search sources\n新增多阶段深度搜索 / Multi-stage deep search\n新增精品影视推荐 / Curated movie & TV picks\n修复异常标题和搜索问题 / Title and search fixes\n备用链接2（蓝奏云）密码：8888 / Mirror 2 (LanzouCloud) password: 8888",
+  "announcement": "大幅优化影视内容加载速度",
   "announcement_i18n": {
-    "zh": "新增68个搜索源\n新增多阶段深度搜索\n新增精品影视推荐\n修复异常标题和搜索问题\n备用链接2（蓝奏云）密码：8888",
-    "en": "68 new search sources\nMulti-stage deep search\nCurated movie and TV picks\nTitle and search fixes\nMirror 2 (LanzouCloud) password: 8888",
-    "es": "68 nuevas fuentes de búsqueda\nBúsqueda profunda por etapas\nRecomendaciones de cine y series\nCorrecciones de títulos y búsqueda\nEnlace 2 (LanzouCloud), contraseña: 8888",
-    "ru": "68 новых источников поиска\nМногоэтапный глубокий поиск\nПодборки фильмов и сериалов\nИсправления заголовков и поиска\nСсылка 2 (LanzouCloud), пароль: 8888",
-    "pt": "68 novas fontes de busca\nBusca profunda em várias etapas\nRecomendações de filmes e séries\nCorreções de títulos e busca\nLink 2 (LanzouCloud), senha: 8888",
-    "ja": "検索ソースを68件追加\n多段階ディープ検索\n厳選映画・ドラマ推薦\nタイトル表示と検索を修正\nリンク2（LanzouCloud）のパスワード：8888",
-    "ko": "검색 소스 68개 추가\n다단계 심층 검색\n엄선 영화·드라마 추천\n제목 표시 및 검색 수정\n링크 2(LanzouCloud) 비밀번호: 8888",
-    "fr": "68 nouvelles sources de recherche\nRecherche approfondie par étapes\nSélections de films et séries\nCorrections des titres et de la recherche\nLien 2 (LanzouCloud), mot de passe : 8888",
-    "de": "68 neue Suchquellen\nMehrstufige Tiefensuche\nFilm- und Serienempfehlungen\nTitel- und Suchfehler behoben\nLink 2 (LanzouCloud), Passwort: 8888",
-    "ar": "إضافة 68 مصدرًا للبحث\nبحث متعمق متعدد المراحل\nترشيحات أفلام ومسلسلات مختارة\nإصلاح العناوين ومشاكل البحث\nالرابط 2 (LanzouCloud)، كلمة المرور: 8888"
+    "zh": "大幅优化影视内容加载速度",
+    "en": "Significantly improved media content loading speed",
+    "es": "Gran mejora de la velocidad de carga del contenido audiovisual",
+    "ru": "Значительно ускорена загрузка медиаконтента",
+    "pt": "Grande melhoria na velocidade de carregamento de conteúdo de mídia",
+    "ja": "映像コンテンツの読み込み速度を大幅に最適化",
+    "ko": "영상 콘텐츠 로딩 속도를 대폭 최적화",
+    "fr": "Vitesse de chargement du contenu multimédia fortement améliorée",
+    "de": "Ladegeschwindigkeit von Medieninhalten deutlich verbessert",
+    "ar": "تحسين كبير في سرعة تحميل محتوى الوسائط"
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-07-29T00:37:28+08:00"
+  "updated_at": "2026-07-29T22:46:00+08:00"
 }
