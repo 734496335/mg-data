@@ -1,27 +1,27 @@
 {
-  "latest_version": "0.2.2",
+  "latest_version": "0.2.3",
   "min_version": "0.1.10",
   "download": {
-    "primary": "https://api.naoshiquan.com/download/v0.2.2/magnetgoogo-v0.2.2.apk",
+    "primary": "https://api.naoshiquan.com/download/v0.2.3/magnetgoogo-v0.2.3.apk",
     "mirrors": [
-      "https://wwbdy.lanzn.com/imCPX3zgpbkb",
-      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.2/magnetgoogo-v0.2.2.apk"
+      "https://wwbdy.lanzn.com/iDcyE3zn4rcf",
+      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.3/magnetgoogo-v0.2.3.apk"
     ]
   },
-  "announcement": "大幅优化影视内容加载速度",
+  "announcement": "优化国内更新下载速度。\n修复 App 内下载后无法安装的问题。\n提升影视加载和离线使用稳定性。",
   "announcement_i18n": {
-    "zh": "大幅优化影视内容加载速度",
-    "en": "Significantly improved media content loading speed",
-    "es": "Gran mejora de la velocidad de carga del contenido audiovisual",
-    "ru": "Значительно ускорена загрузка медиаконтента",
-    "pt": "Grande melhoria na velocidade de carregamento de conteúdo de mídia",
-    "ja": "映像コンテンツの読み込み速度を大幅に最適化",
-    "ko": "영상 콘텐츠 로딩 속도를 대폭 최적화",
-    "fr": "Vitesse de chargement du contenu multimédia fortement améliorée",
-    "de": "Ladegeschwindigkeit von Medieninhalten deutlich verbessert",
-    "ar": "تحسين كبير في سرعة تحميل محتوى الوسائط"
+    "zh": "优化国内更新下载速度。\n修复 App 内下载后无法安装的问题。\n提升影视加载和离线使用稳定性。",
+    "en": "Faster update downloads in mainland China.\nFixed installation failing after an in-app download.\nImproved media loading and offline stability.",
+    "es": "Descargas de actualizaciones más rápidas en China continental.\nCorregido el fallo de instalación tras descargar desde la app.\nMejorada la carga multimedia y la estabilidad sin conexión.",
+    "ru": "Ускорена загрузка обновлений в материковом Китае.\nИсправлена ошибка установки после загрузки в приложении.\nПовышена стабильность загрузки медиа и офлайн-режима.",
+    "pt": "Downloads de atualização mais rápidos na China continental.\nCorrigida a falha de instalação após o download no app.\nMelhorada a estabilidade de mídia e do uso offline.",
+    "ja": "中国本土でのアップデート速度を改善。\nアプリ内ダウンロード後にインストールできない問題を修正。\n映像の読み込みとオフライン利用の安定性を向上。",
+    "ko": "중국 본토 업데이트 다운로드 속도를 개선했습니다.\n앱 내 다운로드 후 설치되지 않던 문제를 수정했습니다.\n영상 로딩과 오프라인 사용 안정성을 높였습니다.",
+    "fr": "Téléchargements de mises à jour accélérés en Chine continentale.\nCorrection de l’échec d’installation après le téléchargement dans l’app.\nAmélioration du chargement multimédia et de la stabilité hors ligne.",
+    "de": "Schnellere Update-Downloads in Festlandchina.\nInstallation nach dem In-App-Download wurde behoben.\nMedienladen und Offline-Stabilität wurden verbessert.",
+    "ar": "تسريع تنزيل التحديثات داخل الصين القارية.\nإصلاح تعذر التثبيت بعد التنزيل من داخل التطبيق.\nتحسين تحميل الوسائط واستقرار الاستخدام دون اتصال."
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-07-30T17:45:00+08:00"
+  "updated_at": "2026-07-30T21:18:00+08:00"
 }
