@@ -5,7 +5,6 @@
     "primary": "https://api.naoshiquan.com/download/v0.2.2/magnetgoogo-v0.2.2.apk",
     "mirrors": [
       "https://wwbdy.lanzn.com/imCPX3zgpbkb",
-      "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
       "https://github.com/734496335/magnetgoogo/releases/download/v0.2.2/magnetgoogo-v0.2.2.apk"
     ]
   },
@@ -24,5 +23,5 @@
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-07-30T17:30:00+08:00"
+  "updated_at": "2026-07-30T17:45:00+08:00"
 }
