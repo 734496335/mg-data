@@ -8,20 +8,20 @@
       "https://github.com/734496335/magnetgoogo/releases/download/v0.2.3/magnetgoogo-v0.2.3.apk"
     ]
   },
-  "announcement": "优化国内更新下载速度。\n修复 App 内下载后无法安装的问题。\n提升影视加载和离线使用稳定性。",
+  "announcement": "重要：0.2.2 用户请不要点击“立即更新”，请点击下方“备用链接 1”，通过蓝奏云下载并安装 0.2.3。\n优化国内更新下载速度。\n修复 App 内下载后无法安装的问题。\n提升影视加载和离线使用稳定性。",
   "announcement_i18n": {
-    "zh": "优化国内更新下载速度。\n修复 App 内下载后无法安装的问题。\n提升影视加载和离线使用稳定性。",
-    "en": "Faster update downloads in mainland China.\nFixed installation failing after an in-app download.\nImproved media loading and offline stability.",
-    "es": "Descargas de actualizaciones más rápidas en China continental.\nCorregido el fallo de instalación tras descargar desde la app.\nMejorada la carga multimedia y la estabilidad sin conexión.",
-    "ru": "Ускорена загрузка обновлений в материковом Китае.\nИсправлена ошибка установки после загрузки в приложении.\nПовышена стабильность загрузки медиа и офлайн-режима.",
-    "pt": "Downloads de atualização mais rápidos na China continental.\nCorrigida a falha de instalação após o download no app.\nMelhorada a estabilidade de mídia e do uso offline.",
-    "ja": "中国本土でのアップデート速度を改善。\nアプリ内ダウンロード後にインストールできない問題を修正。\n映像の読み込みとオフライン利用の安定性を向上。",
-    "ko": "중국 본토 업데이트 다운로드 속도를 개선했습니다.\n앱 내 다운로드 후 설치되지 않던 문제를 수정했습니다.\n영상 로딩과 오프라인 사용 안정성을 높였습니다.",
-    "fr": "Téléchargements de mises à jour accélérés en Chine continentale.\nCorrection de l’échec d’installation après le téléchargement dans l’app.\nAmélioration du chargement multimédia et de la stabilité hors ligne.",
-    "de": "Schnellere Update-Downloads in Festlandchina.\nInstallation nach dem In-App-Download wurde behoben.\nMedienladen und Offline-Stabilität wurden verbessert.",
-    "ar": "تسريع تنزيل التحديثات داخل الصين القارية.\nإصلاح تعذر التثبيت بعد التنزيل من داخل التطبيق.\nتحسين تحميل الوسائط واستقرار الاستخدام دون اتصال."
+    "zh": "重要：0.2.2 用户请不要点击“立即更新”，请点击下方“备用链接 1”，通过蓝奏云下载并安装 0.2.3。\n优化国内更新下载速度。\n修复 App 内下载后无法安装的问题。\n提升影视加载和离线使用稳定性。",
+    "en": "Important: If you are using 0.2.2, do not tap “Update now”. Tap “Backup link 1” below and install 0.2.3 from LanzouCloud.\nFaster update downloads in mainland China.\nFixed installation failing after an in-app download.\nImproved media loading and offline stability.",
+    "es": "Importante: Si usa la versión 0.2.2, no pulse “Actualizar ahora”. Pulse “Enlace alternativo 1” e instale 0.2.3 desde LanzouCloud.\nDescargas de actualizaciones más rápidas en China continental.\nCorregido el fallo de instalación tras descargar desde la app.\nMejorada la carga multimedia y la estabilidad sin conexión.",
+    "ru": "Важно: пользователям версии 0.2.2 не следует нажимать «Обновить сейчас». Нажмите «Резервная ссылка 1» и установите 0.2.3 через LanzouCloud.\nУскорена загрузка обновлений в материковом Китае.\nИсправлена ошибка установки после загрузки в приложении.\nПовышена стабильность загрузки медиа и офлайн-режима.",
+    "pt": "Importante: usuários da versão 0.2.2 não devem tocar em “Atualizar agora”. Toque em “Link alternativo 1” e instale a versão 0.2.3 pelo LanzouCloud.\nDownloads de atualização mais rápidos na China continental.\nCorrigida a falha de instalação após o download no app.\nMelhorada a estabilidade de mídia e do uso offline.",
+    "ja": "重要：0.2.2をご利用の場合は「今すぐ更新」を押さず、下の「予備リンク1」からLanzouCloudで0.2.3をダウンロードしてインストールしてください。\n中国本土でのアップデート速度を改善。\nアプリ内ダウンロード後にインストールできない問題を修正。\n映像の読み込みとオフライン利用の安定性を向上。",
+    "ko": "중요: 0.2.2 사용자는 “지금 업데이트”를 누르지 말고 아래의 “백업 링크 1”을 눌러 LanzouCloud에서 0.2.3을 설치해 주세요.\n중국 본토 업데이트 다운로드 속도를 개선했습니다.\n앱 내 다운로드 후 설치되지 않던 문제를 수정했습니다.\n영상 로딩과 오프라인 사용 안정성을 높였습니다.",
+    "fr": "Important : si vous utilisez la version 0.2.2, ne touchez pas « Mettre à jour ». Touchez « Lien de secours 1 » et installez la version 0.2.3 depuis LanzouCloud.\nTéléchargements de mises à jour accélérés en Chine continentale.\nCorrection de l’échec d’installation après le téléchargement dans l’app.\nAmélioration du chargement multimédia et de la stabilité hors ligne.",
+    "de": "Wichtig: Nutzer von Version 0.2.2 sollten nicht auf „Jetzt aktualisieren“ tippen. Tippen Sie unten auf „Ersatzlink 1“ und installieren Sie 0.2.3 über LanzouCloud.\nSchnellere Update-Downloads in Festlandchina.\nInstallation nach dem In-App-Download wurde behoben.\nMedienladen und Offline-Stabilität wurden verbessert.",
+    "ar": "مهم: إذا كنت تستخدم الإصدار 0.2.2 فلا تضغط «التحديث الآن». اضغط «الرابط الاحتياطي 1» وثبّت الإصدار 0.2.3 من LanzouCloud.\nتسريع تنزيل التحديثات داخل الصين القارية.\nإصلاح تعذر التثبيت بعد التنزيل من داخل التطبيق.\nتحسين تحميل الوسائط واستقرار الاستخدام دون اتصال."
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-07-30T21:18:00+08:00"
+  "updated_at": "2026-07-30T22:23:00+08:00"
 }
