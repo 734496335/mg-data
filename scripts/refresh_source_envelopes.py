@@ -219,23 +219,54 @@ def main() -> int:
     files = args.files or list(DEFAULT_FILES)
     changed_files: list[str] = []
     results: list[dict[str, Any]] = []
+    inspected: list[dict[str, Any]] = []
 
     for path in files:
         if not path.is_file():
             raise FileNotFoundError(path)
+        wrapper = json.loads(path.read_text("utf-8"))
+        envelope = decrypt_wrapper(wrapper, key)
+        inspected.append(
+            {
+                "path": path,
+                "issued_at": parse_timestamp(envelope["issued_at"], "issued_at"),
+                "expires_at": parse_timestamp(envelope["expires_at"], "expires_at"),
+                "min_app_version": envelope["min_app_version"],
+            }
+        )
+
+    cohort_fields = ("issued_at", "expires_at", "min_app_version")
+    cohort_mismatch = any(
+        item[field] != inspected[0][field]
+        for item in inspected[1:]
+        for field in cohort_fields
+    )
+    if args.verify_only and cohort_mismatch:
+        raise ValueError("source envelope cohort metadata is inconsistent")
+    group_refresh = args.force or cohort_mismatch or any(
+        (item["expires_at"] - now).total_seconds() / 3600 <= args.refresh_before_hours
+        for item in inspected
+    )
+
+    for path in files:
         changed, details = refresh_file(
             path=path,
             key=key,
             now=now,
             expiry_hours=args.expiry_hours,
             refresh_before_hours=args.refresh_before_hours,
-            force=args.force,
+            force=group_refresh,
             dry_run=args.dry_run,
             verify_only=args.verify_only,
         )
         if changed and not args.dry_run:
             changed_files.append(str(path))
         results.append(details)
+
+    if len(results) > 1:
+        for field in ("issued_at", "expires_at"):
+            if any(item[field] != results[0][field] for item in results[1:]):
+                raise ValueError(f"source envelope cohort refresh produced inconsistent {field}")
 
     write_github_output(bool(changed_files), changed_files)
     print(

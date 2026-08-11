@@ -32,8 +32,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install crypto dependency
-        run: python -m pip install --disable-pip-version-check pycryptodome==3.23.0
+      - name: Install test and crypto dependencies
+        run: python -m pip install --disable-pip-version-check pycryptodome==3.23.0 pytest==8.4.1
+
+      - name: Verify refresh state-machine tests
+        run: python -m pytest tests/test_refresh_source_envelopes.py -q
 
       - name: Refresh envelopes when required
         id: refresh
@@ -65,6 +68,10 @@ jobs:
           git commit -m "chore: refresh encrypted source envelopes"
           git push
           echo "Refreshed: ${REFRESHED_FILES}"
+
+      - name: Verify required public authority convergence
+        if: steps.refresh.outputs.changed == 'true'
+        run: python scripts/verify_public_source_authority.py
 
       - name: Summary
         if: always()
