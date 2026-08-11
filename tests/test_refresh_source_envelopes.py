@@ -125,3 +125,11 @@ def test_tampered_member_fails_before_any_rewrite(tmp_path: Path, monkeypatch: p
     with pytest.raises(ValueError, match="HMAC verification failed"):
         refresh.main()
     assert (full.read_bytes(), green.read_bytes()) == before
+
+
+def test_production_workflow_refreshes_only_full_source_pack() -> None:
+    workflow = Path(".github/workflows/refresh-source-envelopes.yml").read_text(encoding="utf-8")
+    assert "--file sources.enc.json" in workflow
+    assert "git diff --check -- sources.enc.json" in workflow
+    assert "git add sources.enc.json" in workflow
+    assert "purge.jsdelivr.net/gh/734496335/mg-data@main/sources-green.enc.json" not in workflow

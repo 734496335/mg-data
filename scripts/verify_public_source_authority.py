@@ -15,20 +15,11 @@ REQUIRED = {
         "https://magnetgoogo.com/sources.enc.json",
         "https://api.naoshiquan.com/sources.enc.json",
     ),
-    "sources-green.enc.json": (
-        "https://raw.githubusercontent.com/734496335/mg-data/main/sources-green.enc.json",
-        "https://magnetgoogo.com/sources-green.enc.json",
-    ),
 }
 OPTIONAL = {
     "sources.enc.json": (
         "https://cdn.jsdelivr.net/gh/734496335/mg-data@main/sources.enc.json",
         "https://maggoogo-gateway.734496335lp.workers.dev/sources.enc.json",
-    ),
-    "sources-green.enc.json": (
-        "https://cdn.jsdelivr.net/gh/734496335/mg-data@main/sources-green.enc.json",
-        "https://api.naoshiquan.com/sources-green.enc.json",
-        "https://maggoogo-gateway.734496335lp.workers.dev/sources-green.enc.json",
     ),
 }
 
