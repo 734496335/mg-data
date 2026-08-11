@@ -69,6 +69,13 @@ jobs:
           git push
           echo "Refreshed: ${REFRESHED_FILES}"
 
+      - name: Purge jsDelivr mutable-main caches
+        if: steps.refresh.outputs.changed == 'true'
+        continue-on-error: true
+        run: |
+          curl --fail --silent --show-error --retry 2 "https://purge.jsdelivr.net/gh/734496335/mg-data@main/sources.enc.json" >/dev/null
+          curl --fail --silent --show-error --retry 2 "https://purge.jsdelivr.net/gh/734496335/mg-data@main/sources-green.enc.json" >/dev/null
+
       - name: Verify required public authority convergence
         if: steps.refresh.outputs.changed == 'true'
         run: python scripts/verify_public_source_authority.py
