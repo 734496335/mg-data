@@ -44,7 +44,7 @@ jobs:
           SOURCE_ENCRYPTION_KEY_HEX: ${{ secrets.SOURCE_ENCRYPTION_KEY_HEX }}
           FORCE_REFRESH: ${{ inputs.force || 'false' }}
         run: |
-          args=(--file sources.enc.json --expiry-hours 72 --refresh-before-hours 24)
+          args=(--file sources.enc.json --expiry-hours 72 --refresh-before-hours 32)
           if [ "$FORCE_REFRESH" = "true" ]; then
             args+=(--force)
           fi
@@ -87,6 +87,6 @@ jobs:
             echo "- Changed: ${{ steps.refresh.outputs.changed || 'unknown' }}"
             echo "- Files: ${{ steps.refresh.outputs.files || 'none' }}"
             echo "- Schedule: every 8 hours"
-            echo "- Refresh threshold: 24 hours remaining"
+            echo "- Refresh threshold: 32 hours remaining"
             echo "- New validity: 72 hours"
           } >> "$GITHUB_STEP_SUMMARY"
