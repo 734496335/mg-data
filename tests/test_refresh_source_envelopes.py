@@ -130,6 +130,11 @@ def test_tampered_member_fails_before_any_rewrite(tmp_path: Path, monkeypatch: p
 def test_production_workflow_refreshes_only_full_source_pack() -> None:
     workflow = Path(".github/workflows/refresh-source-envelopes.yml").read_text(encoding="utf-8")
     assert "--file sources.enc.json" in workflow
+    assert "push:" in workflow
+    assert "- '.github/workflows/refresh-source-envelopes.yml'" in workflow
+    assert "- 'scripts/refresh_source_envelopes.py'" in workflow
+    assert "- 'tests/test_refresh_source_envelopes.py'" in workflow
+    assert "      - 'sources.enc.json'" not in workflow
     assert "--expiry-hours 72 --refresh-before-hours 32" in workflow
     assert "Refresh threshold: 32 hours remaining" in workflow
     assert "git diff --check -- sources.enc.json" in workflow

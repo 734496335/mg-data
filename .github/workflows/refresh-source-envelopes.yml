@@ -1,6 +1,11 @@
 name: Refresh Source Envelopes
 
 on:
+  push:
+    paths:
+      - '.github/workflows/refresh-source-envelopes.yml'
+      - 'scripts/refresh_source_envelopes.py'
+      - 'tests/test_refresh_source_envelopes.py'
   schedule:
     - cron: '17 */8 * * *'
   workflow_dispatch:
