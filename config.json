@@ -1,11 +1,11 @@
 {
-  "latest_version": "0.2.6",
+  "latest_version": "0.2.7",
   "min_version": "0.1.10",
   "download": {
-    "primary": "https://api.naoshiquan.com/download/v0.2.6/magnetgoogo-v0.2.6.apk",
+    "primary": "https://api.naoshiquan.com/download/v0.2.7/magnetgoogo-v0.2.7-final.apk",
     "mirrors": [
-      "https://wwbdy.lanzn.com/irfev42qyyne",
-      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.6/magnetgoogo-v0.2.6.apk"
+      "https://wwbdy.lanzn.com/iMr7s44jqqni",
+      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.7/magnetgoogo-v0.2.7-final.apk"
     ]
   },
   "announcement": "修复影视资源相关问题。\n优化搜索体验。\n修复若干问题并提升稳定性；蓝奏云密码：8888。",
@@ -23,5 +23,5 @@
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-08-16T19:31:57+08:00"
+  "updated_at": "2026-08-25T19:26:00+08:00"
 }
