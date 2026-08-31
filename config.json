@@ -5,23 +5,24 @@
     "primary": "https://api.naoshiquan.com/download/v0.2.7/magnetgoogo-v0.2.7-final.apk",
     "mirrors": [
       "https://wwbdy.lanzn.com/iMr7s44jqqni",
+      "https://magnetgoogo.com",
       "https://github.com/734496335/magnetgoogo/releases/download/v0.2.7/magnetgoogo-v0.2.7-final.apk"
     ]
   },
-  "announcement": "修复影视资源相关问题。\n优化搜索体验。\n修复若干问题并提升稳定性；蓝奏云密码：8888。",
+  "announcement": "修复影视资源相关问题并优化搜索体验。\n如 App 内更新失败，请访问官网 magnetgoogo.com 下载最新版。\n0.1.10及以下为旧签名版本，需先卸载旧版，再从官网安装最新版；蓝奏云密码：8888。",
   "announcement_i18n": {
-    "zh": "修复影视资源相关问题。\n优化搜索体验。\n修复若干问题并提升稳定性；蓝奏云密码：8888。",
-    "en": "Fixed media resource issues.\nImproved the search experience.\nFixed several issues and improved stability; LanzouCloud password: 8888.",
-    "es": "Se corrigieron problemas de recursos multimedia.\nSe mejoró la experiencia de búsqueda.\nSe corrigieron varios problemas y se mejoró la estabilidad; contraseña de LanzouCloud: 8888.",
-    "ru": "Исправлены проблемы с медиаресурсами.\nУлучшен поиск.\nИсправлен ряд проблем и повышена стабильность; пароль LanzouCloud: 8888.",
-    "pt": "Foram corrigidos problemas de recursos de mídia.\nA experiência de busca foi melhorada.\nVários problemas foram corrigidos e a estabilidade aprimorada; senha do LanzouCloud: 8888.",
-    "ja": "映像リソース関連の問題を修正しました。\n検索体験を改善しました。\n複数の問題を修正し安定性を向上しました；LanzouCloudのパスワード：8888。",
-    "ko": "미디어 리소스 관련 문제를 수정했습니다.\n검색 경험을 개선했습니다.\n여러 문제를 수정하고 안정성을 높였습니다; LanzouCloud 비밀번호: 8888.",
-    "fr": "Des problèmes de ressources multimédias ont été corrigés.\nL’expérience de recherche a été améliorée.\nPlusieurs problèmes ont été corrigés et la stabilité améliorée ; mot de passe LanzouCloud : 8888.",
-    "de": "Probleme mit Medienressourcen wurden behoben.\nDie Sucherfahrung wurde verbessert.\nMehrere Probleme wurden behoben und die Stabilität verbessert; LanzouCloud-Passwort: 8888.",
-    "ar": "تم إصلاح مشكلات موارد الوسائط.\nتم تحسين تجربة البحث.\nتم إصلاح عدة مشكلات وتحسين الاستقرار؛ كلمة مرور LanzouCloud: 8888."
+    "zh": "修复影视资源相关问题并优化搜索体验。\n如 App 内更新失败，请访问官网 magnetgoogo.com 下载最新版。\n0.1.10及以下为旧签名版本，需先卸载旧版，再从官网安装最新版；蓝奏云密码：8888。",
+    "en": "Media and search improvements.\nIf in-app update fails, download the latest version from magnetgoogo.com.\nVersions 0.1.10 and earlier use an old signing key: uninstall the old app first, then install the latest version from the website. LanzouCloud password: 8888.",
+    "es": "Mejoras de recursos multimedia y búsqueda.\nSi falla la actualización en la app, descarga la última versión en magnetgoogo.com.\nLas versiones 0.1.10 y anteriores usan una firma antigua: desinstala la app anterior y luego instala la última desde la web. Contraseña de LanzouCloud: 8888.",
+    "ru": "Улучшены медиаресурсы и поиск.\nЕсли обновление в приложении не удалось, скачайте последнюю версию с magnetgoogo.com.\nВерсии 0.1.10 и ниже имеют старую подпись: сначала удалите старую версию, затем установите новую с сайта. Пароль LanzouCloud: 8888.",
+    "pt": "Melhorias em recursos de mídia e busca.\nSe a atualização no app falhar, baixe a versão mais recente em magnetgoogo.com.\nAs versões 0.1.10 e anteriores usam assinatura antiga: desinstale o app antigo e depois instale a versão mais recente pelo site. Senha do LanzouCloud: 8888.",
+    "ja": "映像リソースと検索を改善しました。\nアプリ内更新に失敗した場合は magnetgoogo.com から最新版をダウンロードしてください。\n0.1.10以前は旧署名のため、旧版をアンインストールしてから公式サイトの最新版をインストールしてください。LanzouCloudパスワード：8888。",
+    "ko": "미디어 리소스와 검색을 개선했습니다.\n앱 내 업데이트가 실패하면 magnetgoogo.com 에서 최신 버전을 다운로드하세요.\n0.1.10 이하 버전은 이전 서명을 사용하므로 기존 앱을 삭제한 뒤 공식 사이트에서 최신 버전을 설치해야 합니다. LanzouCloud 비밀번호: 8888.",
+    "fr": "Améliorations des ressources multimédias et de la recherche.\nSi la mise à jour dans l’app échoue, téléchargez la dernière version sur magnetgoogo.com.\nLes versions 0.1.10 et antérieures utilisent une ancienne signature : désinstallez l’ancienne app puis installez la dernière depuis le site. Mot de passe LanzouCloud : 8888.",
+    "de": "Medienressourcen und Suche wurden verbessert.\nFalls das In-App-Update fehlschlägt, laden Sie die neueste Version von magnetgoogo.com herunter.\nVersion 0.1.10 und älter verwenden eine alte Signatur: alte App deinstallieren und anschließend die neueste Version von der Website installieren. LanzouCloud-Passwort: 8888.",
+    "ar": "تم تحسين موارد الوسائط والبحث.\nإذا فشل التحديث داخل التطبيق، نزّل أحدث إصدار من magnetgoogo.com.\nالإصدارات 0.1.10 وما قبلها تستخدم توقيعًا قديمًا: احذف الإصدار القديم أولًا ثم ثبّت أحدث إصدار من الموقع. كلمة مرور LanzouCloud: 8888."
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-08-25T19:26:00+08:00"
+  "updated_at": "2026-08-31T12:18:00+08:00"
 }
