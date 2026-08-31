@@ -1,6 +1,6 @@
 {
   "latest_version": "0.2.7",
-  "min_version": "0.1.10",
+  "min_version": "0.2.5",
   "download": {
     "primary": "https://api.naoshiquan.com/download/v0.2.7/magnetgoogo-v0.2.7-final.apk",
     "mirrors": [
