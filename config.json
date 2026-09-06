@@ -9,20 +9,20 @@
       "https://github.com/734496335/magnetgoogo/releases/download/v0.2.8/app-release.apk"
     ]
   },
-  "announcement": "修复搜索输入异常和资源大小显示错误。",
+  "announcement": "修复搜索输入异常和资源大小显示错误。蓝奏云密码：8888。",
   "announcement_i18n": {
-    "zh": "修复搜索输入异常和资源大小显示错误。",
-    "en": "Fixed search input issues and incorrect resource size display.",
-    "es": "Se corrigieron problemas de entrada de búsqueda y tamaños de recursos incorrectos.",
-    "ru": "Исправлены проблемы ввода поиска и неверное отображение размера ресурсов.",
-    "pt": "Corrigidos problemas de entrada na busca e exibição incorreta do tamanho dos recursos.",
-    "ja": "検索入力の問題とリソースサイズの誤表示を修正しました。",
-    "ko": "검색 입력 문제와 리소스 크기 표시 오류를 수정했습니다.",
-    "fr": "Correction des problèmes de saisie de recherche et d’affichage incorrect de la taille des ressources.",
-    "de": "Probleme bei der Sucheingabe und falsche Ressourcengrößen wurden behoben.",
-    "ar": "تم إصلاح مشكلات إدخال البحث وعرض أحجام الموارد بشكل غير صحيح."
+    "zh": "修复搜索输入异常和资源大小显示错误。蓝奏云密码：8888。",
+    "en": "Fixed search input issues and incorrect resource size display. LanzouCloud password: 8888.",
+    "es": "Se corrigieron problemas de entrada de búsqueda y tamaños de recursos incorrectos. Contraseña de LanzouCloud: 8888.",
+    "ru": "Исправлены проблемы ввода поиска и неверное отображение размера ресурсов. Пароль LanzouCloud: 8888.",
+    "pt": "Corrigidos problemas de entrada na busca e exibição incorreta do tamanho dos recursos. Senha do LanzouCloud: 8888.",
+    "ja": "検索入力の問題とリソースサイズの誤表示を修正しました。LanzouCloudパスワード：8888。",
+    "ko": "검색 입력 문제와 리소스 크기 표시 오류를 수정했습니다. LanzouCloud 비밀번호: 8888.",
+    "fr": "Correction des problèmes de saisie de recherche et d’affichage incorrect de la taille des ressources. Mot de passe LanzouCloud : 8888.",
+    "de": "Probleme bei der Sucheingabe und falsche Ressourcengrößen wurden behoben. LanzouCloud-Passwort: 8888.",
+    "ar": "تم إصلاح مشكلات إدخال البحث وعرض أحجام الموارد بشكل غير صحيح. كلمة مرور LanzouCloud: 8888."
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-09-06T13:18:00+08:00"
+  "updated_at": "2026-09-06T13:42:09+08:00"
 }
