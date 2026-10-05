@@ -9,20 +9,20 @@
       "https://github.com/734496335/magnetgoogo/releases/download/v0.2.9/app-release.apk"
     ]
   },
-  "announcement": "优化影视资源\n修复 Bug",
+  "announcement": "优化影视资源\n修复 Bug\n蓝奏云密码：8888",
   "announcement_i18n": {
-    "zh": "优化影视资源\n修复 Bug",
-    "en": "Improved movie & TV resources\nBug fixes",
-    "es": "Recursos de cine y TV optimizados\nCorrección de errores",
-    "ru": "Улучшены ресурсы фильмов и сериалов\nИсправлены ошибки",
-    "pt": "Recursos de filmes e séries otimizados\nCorreções de bugs",
-    "ja": "映画・ドラマのリソースを最適化\n不具合を修正",
-    "ko": "영화·TV 리소스 최적화\n버그 수정",
-    "fr": "Ressources films et séries optimisées\nCorrections de bugs",
-    "de": "Film- und Serienressourcen optimiert\nFehlerbehebungen",
-    "ar": "تحسين موارد الأفلام والمسلسلات\nإصلاحات للأخطاء"
+    "zh": "优化影视资源\n修复 Bug\n蓝奏云密码：8888",
+    "en": "Improved movie & TV resources\nBug fixes\nLanzouCloud password: 8888",
+    "es": "Recursos de cine y TV optimizados\nCorrección de errores\nContraseña de LanzouCloud: 8888",
+    "ru": "Улучшены ресурсы фильмов и сериалов\nИсправлены ошибки\nПароль LanzouCloud: 8888",
+    "pt": "Recursos de filmes e séries otimizados\nCorreções de bugs\nSenha do LanzouCloud: 8888",
+    "ja": "映画・ドラマのリソースを最適化\n不具合を修正\nLanzouCloudパスワード：8888",
+    "ko": "영화·TV 리소스 최적화\n버그 수정\nLanzouCloud 비밀번호: 8888",
+    "fr": "Ressources films et séries optimisées\nCorrections de bugs\nMot de passe LanzouCloud : 8888",
+    "de": "Film- und Serienressourcen optimiert\nFehlerbehebungen\nLanzouCloud-Passwort: 8888",
+    "ar": "تحسين موارد الأفلام والمسلسلات\nإصلاحات للأخطاء\nكلمة مرور LanzouCloud: 8888"
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-10-05T20:10:41+08:00"
+  "updated_at": "2026-10-05T21:41:15+08:00"
 }
