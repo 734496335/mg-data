@@ -1,29 +1,29 @@
 {
-  "latest_version": "0.2.10",
+  "latest_version": "0.3.0",
   "min_version": "0.2.5",
   "download": {
-    "primary": "https://media.magnetgoogo.com/apk/v0.2.10/app-release.apk",
+    "primary": "https://media.magnetgoogo.com/apk/v0.3.0/app-release.apk",
     "mirrors": [
-      "https://wwbdy.lanzn.com/ixAS64e0ygwb",
+      "https://wwbdy.lanzn.com/il3n94g1ytdi",
       "https://magnetgoogo.com",
-      "https://api.naoshiquan.com/download/v0.2.10/app-release.apk",
-      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.10/app-release.apk"
+      "https://api.naoshiquan.com/download/v0.3.0/app-release.apk",
+      "https://github.com/734496335/magnetgoogo/releases/download/v0.3.0/app-release.apk"
     ]
   },
-  "announcement": "新增反馈回复\n优化反馈与导航界面\n优化搜索切页流畅度\n蓝奏云密码：8888",
+  "announcement": "首页搜索按钮与快捷入口更新\n搜索结果支持 4K 筛选\n蓝奏云(密码：8888)",
   "announcement_i18n": {
-    "zh": "新增反馈回复\n优化反馈与导航界面\n优化搜索切页流畅度\n蓝奏云密码：8888",
-    "en": "Replies to feedback\nRefined feedback and navigation UI\nSmoother search navigation\nLanzouCloud password: 8888",
-    "es": "Respuestas a tus comentarios\nInterfaz de comentarios y navegación renovada\nNavegación de búsqueda más fluida\nContraseña de LanzouCloud: 8888",
-    "ru": "Ответы на ваши отзывы\nОбновлённый интерфейс отзывов и навигации\nБолее плавная навигация при поиске\nПароль LanzouCloud: 8888",
-    "pt": "Respostas ao seu feedback\nInterface de feedback e navegação renovada\nNavegação de pesquisa mais fluida\nSenha do LanzouCloud: 8888",
-    "ja": "フィードバックへの返信に対応\nフィードバックとナビゲーション画面を改善\n検索画面の切り替えをスムーズに\nLanzouCloudパスワード：8888",
-    "ko": "피드백 답변 지원\n피드백 및 탐색 화면 개선\n더 부드러운 검색 화면 전환\nLanzouCloud 비밀번호: 8888",
-    "fr": "Réponses à vos commentaires\nInterface de commentaires et de navigation améliorée\nNavigation de recherche plus fluide\nMot de passe LanzouCloud : 8888",
-    "de": "Antworten auf Feedback\nÜberarbeitete Feedback- und Navigationsoberfläche\nFlüssigere Navigation bei der Suche\nLanzouCloud-Passwort: 8888",
-    "ar": "الرد على الملاحظات\nتحسين واجهة الملاحظات والتنقل\nتنقل أكثر سلاسة بين صفحات البحث\nكلمة مرور LanzouCloud: 8888"
+    "zh": "首页搜索按钮与快捷入口更新\n搜索结果支持 4K 筛选\n蓝奏云(密码：8888)",
+    "en": "Updated home search and shortcuts\n4K search filter\nLanzouCloud (password: 8888)",
+    "es": "Nuevo diseño de búsqueda y accesos en el inicio\nFiltro 4K\nLanzouCloud (contraseña: 8888)",
+    "ru": "Обновлены поиск и ярлыки на главной\nФильтр 4K\nLanzouCloud (пароль: 8888)",
+    "pt": "Busca e atalhos da tela inicial atualizados\nFiltro 4K\nLanzouCloud (senha: 8888)",
+    "ja": "ホームの検索とショートカットを更新\n4K検索フィルター\nLanzouCloud（パスワード：8888）",
+    "ko": "홈 검색과 바로가기 개선\n4K 검색 필터\nLanzouCloud (비밀번호: 8888)",
+    "fr": "Recherche et raccourcis d’accueil mis à jour\nFiltre 4K\nLanzouCloud (mot de passe : 8888)",
+    "de": "Suche und Kurzbefehle auf der Startseite aktualisiert\n4K-Suchfilter\nLanzouCloud (Passwort: 8888)",
+    "ar": "تحديث البحث والاختصارات في الصفحة الرئيسية\nفلتر البحث 4K\nLanzouCloud (كلمة المرور: 8888)"
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-10-30T14:06:57.493Z"
+  "updated_at": "2026-11-15T06:45:10.784270Z"
 }
